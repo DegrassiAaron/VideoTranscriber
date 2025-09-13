@@ -1,5 +1,6 @@
 # VideoTranscriber
 
+codex/serialize-transcription-dictionary-to-json
 Utility functions for working with video transcriptions.
 
 ## JSON Output Format
@@ -17,3 +18,5 @@ Transcriptions are stored as JSON objects with the following structure:
 
 Use `serialize_transcription` from `src/transcriber.py` to either write the
 JSON to a file or obtain the JSON string directly.
+=======
+
